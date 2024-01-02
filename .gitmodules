@@ -1,0 +1,3 @@
+[submodule ".devcontainer"]
+	path = .devcontainer
+	url = https://code.stephenwuebker.com/stephenwuebker/devcontainer-python
